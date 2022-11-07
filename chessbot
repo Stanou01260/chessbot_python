@@ -1,2 +1,0 @@
-export PATH=$PATH:$(pwd)
-python3 ./code/main.py
